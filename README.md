@@ -1,4 +1,4 @@
-## Chatbot using Twilio and OPENAPI
+## Chatbot using Twilio and OPENAI
 
 A chatbot using Flask, Twilio, and Google's OPENAI API. </br>
 Start the server and use ngrok to tunnel out to the webhook. </br>
